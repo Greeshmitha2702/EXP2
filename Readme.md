@@ -10,11 +10,11 @@ This project demonstrates how a **Weather Modeling System** can be developed usi
 
 ## 👨‍💻 Team Members
 
-| Name        | Model Implemented |
-|-------------|-------------------|
-| Member 1    | Waterfall         |
-| Member 2    | Iterative         |
-| Member 3    | Agile             |
+| Name           | Model Implemented |
+|----------------|-------------------|
+| Harshitha      | Waterfall         |
+| Pushpa         | Iterative         |
+| Greeshmitha    | Agile             |
 
 ---
 
