@@ -11,7 +11,7 @@ def quadratic_roots(a, b, c):
 
 def main():
     try:
-        with open("../data.txt", "r") as file:
+        with open("data.txt", "r") as file:
             numbers = list(map(float, file.read().split()))
 
         for i in range(0, len(numbers), 3):
