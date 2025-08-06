@@ -1,7 +1,7 @@
 import math
 
 try:
-    with open("../data.txt") as f:
+    with open("data.txt") as f:
         lines = f.readlines()
 
     for line in lines:
